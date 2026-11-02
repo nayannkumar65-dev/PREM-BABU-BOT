@@ -32,13 +32,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "BOT_NAME",
-    "PREFIX": "ADD_PREFIX",
+    "BOTNAME": "Ronit👀",
+    "PREFIX": "#",
     "ADMINBOT": [
-        "OWNER_UID"
+        "61595469805936"
     ],
     "NDH": [
-        "OWNER_UID"
+        "61595469805936"
     ],
     "DATABASE": {
         "sqlite": {
